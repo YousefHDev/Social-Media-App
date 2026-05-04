@@ -389,7 +389,5 @@ For questions or support, please email: adhamh430@gmail.com
 ---
 
 **⭐ If you found this project helpful, please give it a star on GitHub!**
-```
 
----
 
