@@ -1,8 +1,4 @@
-Here's a strong, professional README for your Social Media App project:
 
----
-
-```markdown
 # 📱 Social Media API
 
 A robust, production-ready Social Media Backend API built with **Node.js**, **Express**, **TypeScript**, and **MongoDB**. This API provides complete social media functionality including user authentication, posts, comments, messaging, file uploads, and real-time features.
